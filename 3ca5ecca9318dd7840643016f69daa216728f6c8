@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0f9e2639_4afe55f3",
+        "filename": ".travis.yml",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1015042
+      },
+      "writtenOn": "2018-09-17T20:54:56Z",
+      "side": 1,
+      "message": "removing this line was a good idea, but jdk8 should be added as a dependency",
+      "revId": "3ca5ecca9318dd7840643016f69daa216728f6c8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
